@@ -1,8 +1,7 @@
-Esto es un título
+Esta es la historia de Julian Hernandez
 
-Esto es un título centrado
+Julian Hernandez tiene 21 años y nació en Colombia
 
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
 
-
-Y esto de arriba es la foto de unas Suricatas.
+Mañana nos enfocaremos en su vida laboral
